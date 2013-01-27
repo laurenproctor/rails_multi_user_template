@@ -8,7 +8,7 @@ Users are also authenticated based on their username (as opposed to email).
 
 
 
-***
+
 
 == To use this on your own project.
 
@@ -19,7 +19,7 @@ Users are also authenticated based on their username (as opposed to email).
 5. Build something awesome
 
 
-***
+
 
 == To Do
 
