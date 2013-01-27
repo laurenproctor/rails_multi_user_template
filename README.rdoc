@@ -12,8 +12,15 @@ Users are also authenticated based on their username (as opposed to email).
 
 == To use this on your own project.
 
-=====================
+1. Grab rails_multi_user_template
+2. cd into the template directory
+3. Run bundle in the console
+4. Run rake:db migrate
+5. Build something awesome
 
-=== To Do
+
+***
+
+== To Do
 
 * Add user authentication via Facebook and Twitter
