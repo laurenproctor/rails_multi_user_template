@@ -1,4 +1,4 @@
-## Welcome to the Rails Multi User Template
+== Welcome to the Rails Multi User Template
 
 This is a simple, bare-bones starter app for rails applications requiring a user registration and sign in model.
 
@@ -10,10 +10,10 @@ Users are also authenticated based on their username (as opposed to email).
 
 ***
 
-## To use this on your own project.
+== To use this on your own project.
 
-***
+=====================
 
-### To Do
+=== To Do
 
 * Add user authentication via Facebook and Twitter
